@@ -1,4 +1,5 @@
 # vueschool
+Vue offered a free masterclass of their newest features. The course had an overview of dynamic routing, state management and route guards. The tutorial was based upon building a forum-site with multiple topics, threads, posts and let the user post their own comments. 
 
 ## Project setup
 ```
